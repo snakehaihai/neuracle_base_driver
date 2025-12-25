@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paths>
+  <path>.</path>
+  <path>examples</path>
+  <path>examples/html</path>
+  <path>pde</path>
+  <path>pde/adioe</path>
+  <path>pde/motor_v1</path>
+  <path>pde/adio</path>
+  <path>pde/motor_v2</path>
+  <path>pde/adioes</path>
+  <path>simulink</path>
+</paths>
